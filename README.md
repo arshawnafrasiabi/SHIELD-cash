@@ -4,7 +4,7 @@
 SHIELD cash is a fork of Shield.
 
 SHIELD cash is meant to be the culmination of many different crypto currencies. It is meant to be quantom proof, green, light weight, user friendly, and lightning quick!
-
+<strike/>
 **Homepage**: https://www.shieldx.sh<br/><strike/>
 
 **Email**: contact@shieldx.sh<br/><strike/>

@@ -1,16 +1,20 @@
 ![](share/img/banner.png)
 =====================================
 
-**Homepage**: https://www.shieldx.sh<br/>
+SHIELD cash is a fork of Shield.
 
-**Email**: contact@shieldx.sh<br/>
-**Discord**: https://discord.gg/PnyxZwk<br/>
-**Twitter**: https://twitter.com/shieldxsh<br/>
-**Medium**: https://medium.com/@shieldxsh<br/>
-**GitLab**: https://git.shieldx.sh/SHIELD-team/<br/>
-**BitcoinTalk**: https://bitcointalk.org/index.php?topic=2234453.0<br/>
+SHIELD cash is meant to be the culmination of many different crypto currencies. It is meant to be quantom proof, green, light weight, user friendly, and lightning quick!
 
-**Whitepaper**: [here](https://shieldx.sh/link/wp-en)<br/>
+**Homepage**: https://www.shieldx.sh<br/><strike/>
+
+**Email**: contact@shieldx.sh<br/><strike/>
+**Discord**: https://discord.gg/PnyxZwk<br/><strike/>
+**Twitter**: https://twitter.com/shieldxsh<br/><strike/>
+**Medium**: https://medium.com/@shieldxsh<br/><strike/>
+**GitLab**: https://git.shieldx.sh/SHIELD-team/<br/><strike/>
+**BitcoinTalk**: https://bitcointalk.org/index.php?topic=2234453.0<br/><strike/>
+
+**Whitepaper**: [here](https://shieldx.sh/link/wp-en)<br/><strike/>
 
 **Current codebase**: Bitcoin Core v0.16.1<br/>
 
